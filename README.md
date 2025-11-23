@@ -1,7 +1,5 @@
 # Free-Comerce 
 
---- 
-
 ## Contexto y motivación 
 
 Dentro del campus de la UPSRJ existe una actividad comercial constante entre estudiantes y cooperativas, derivada de la necesidad de adquirir y ofrecer productos o servicios de forma rápida y accesible. Sin embargo, estos intercambios suelen gestionarse mediante plataformas externas como WhatsApp, estas no están diseñadas específicamente para un entorno universitario, presentan riesgos relacionados con la exposición de información personal, suplantación de identidad, falta de privacidad y ausencia de mecanismos de seguridad para los usuarios.  
