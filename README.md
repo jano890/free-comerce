@@ -1,5 +1,5 @@
 # Free-Comerce
-Este proyecto esta orientado a la compra y venta de forma segura y anonima dentro del entorno universitario del campus de UPSRJ.
+
+Este proyecto está orientado a facilitar la compra y venta de manera segura y confidencial dentro del entorno universitario del campus UPSRJ.
 
 ## 1.- Propuesta de proyecto documentada
-
