@@ -213,6 +213,24 @@ Estas disciplinas fortalecen el proyecto mediante:
 - Adaptabilidad a múltiples dispositivos  
 
 ---
+## Colboradores 
 
+SCRUM
+-Karen Valeria Contreras Mendez ITIID-SM-03
+-Jusn Jose Medllin Molina ITIID-SM-03
+
+PROGRAMADORES
+- Rogelio Aleejandro Aguilar Aguilar ITIID-SM-03
+- Leonardo Ventura Torres ITIID-CD-01
+- Héctor Hazael Orduño Velázquez ITIID-IA-02
+
+ENTORNOS VIRTUALES 
+-Leonardo Olvera Ramirez ITIID-SM-03
+
+MARKETING 
+-Emma Natalia Mendoza García ITIID-SM-03
+-Dulce Maria Ramirez Tovar ITIID-SM-03
+
+---
 **Free-Comerce es una solución tecnológica creada por estudiantes, para estudiantes, con el propósito de fortalecer la comunidad universitaria y mejorar la experiencia comercial dentro del campus.**
 
