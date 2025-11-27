@@ -41,9 +41,9 @@ Desarrollar una plataforma que facilite la compra y venta de productos y servici
 
 |---|---|---| 
 
-| Dificultad en el proceso de compra/venta | Disminución de transacciones | Media | 
+|Dificultad en el proceso de compra/venta|Disminución de transacciones|Media| 
 
-| Falta de accesibilidad para usuarios nuevos | Aumento en solicitudes de soporte | Baja – Media | 
+|Falta de accesibilidad para usuarios nuevos|Aumento en solicitudes de soporte|Baja – Media| 
 
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
 |---|---|---|
