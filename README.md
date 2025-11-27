@@ -67,7 +67,7 @@ A pesar de la planeación del proyecto, existen factores tecnológicos, operativ
 | Vulnerabilidades de seguridad | Suplantación, filtración de datos o accesos no autorizados | Media - Alta |
 | Tiempo de carga excesivo | Abandono de la aplicación | Media |
 
-### 🧪 Riesgos de diseño y experiencia del usuario
+### Riesgos de diseño y experiencia del usuario
 
 | Posible error | Consecuencia | Probabilidad |
 | --- | --- | --- |
