@@ -216,8 +216,8 @@ Estas disciplinas fortalecen el proyecto mediante:
 ## Colboradores 
 
 SCRUM
--Karen Valeria Contreras Mendez ITIID-SM-03 http://www.linkedin.com/in/karen-valeria-contreras-mendez-557011398
--Juan Jose Medllin Molina ITIID-SM-03 https://www.linkedin.com/in/juan-jose-medellin-molina-845b2b397/
+- Karen Valeria Contreras Mendez ITIID-SM-03 http://www.linkedin.com/in/karen-valeria-contreras-mendez-557011398
+- Juan Jose Medllin Molina ITIID-SM-03 https://www.linkedin.com/in/juan-jose-medellin-molina-845b2b397/
 
 PROGRAMADORES
 - Rogelio Aleejandro Aguilar Aguilar ITIID-SM-03 https://www.linkedin.com/in/alejandro-aguilar-60a700397/
@@ -225,11 +225,11 @@ PROGRAMADORES
 - Héctor Hazael Orduño Velázquez ITIID-IA-02 http://www.linkedin.com/in/héctor-hazael-orduño-velázquez-380792397
 
 ENTORNOS VIRTUALES 
--Leonardo Olvera Ramirez ITIID-SM-03 http://www.linkedin.com/in/leonardo-olvera-ramirez-b2a957392
+- Leonardo Olvera Ramirez ITIID-SM-03 http://www.linkedin.com/in/leonardo-olvera-ramirez-b2a957392
 
 MARKETING 
--Emma Natalia Mendoza García ITIID-SM-03 http://www.linkedin.com/in/emma-natalia-mendoza-garcia-099021398
--Dulce Maria Ramirez Tovar ITIID-SM-03 http://www.linkedin.com/in/dulce-maria-ramirez-tovar-9b9b92397
+- Emma Natalia Mendoza García ITIID-SM-03 http://www.linkedin.com/in/emma-natalia-mendoza-garcia-099021398
+- Dulce Maria Ramirez Tovar ITIID-SM-03 http://www.linkedin.com/in/dulce-maria-ramirez-tovar-9b9b92397
 
 ---
 **Free-Comerce es una solución tecnológica creada por estudiantes, para estudiantes, con el propósito de fortalecer la comunidad universitaria y mejorar la experiencia comercial dentro del campus.**
