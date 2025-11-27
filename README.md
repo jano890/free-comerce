@@ -37,4 +37,11 @@ Desarrollar una plataforma que facilite la compra y venta de productos y servici
 ---
 ### Metodologia 
 
+| Posible error | Consecuencia | Probabilidad | 
+
+| --- | --- | --- | 
+
+| Dificultad en el proceso de compra/venta | Disminución de transacciones | Media | 
+
+| Falta de accesibilidad para usuarios nuevos | Aumento en solicitudes de soporte | Baja – Media | 
  
