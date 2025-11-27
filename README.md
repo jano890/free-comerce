@@ -1,8 +1,8 @@
-# 📦 Free-Comerce
+# Free-Comerce
 
 ---
 
-## 🧩 Contexto y motivación
+## Contexto y motivación
 
 Dentro del campus de la UPSRJ existe una actividad comercial constante entre estudiantes y cooperativas, derivada de la necesidad de adquirir y ofrecer productos o servicios de forma rápida y accesible.  
 Sin embargo, estos intercambios suelen gestionarse mediante plataformas externas como WhatsApp, las cuales no están diseñadas específicamente para un entorno universitario y presentan riesgos como:
@@ -16,7 +16,7 @@ Ante esta situación, surge la necesidad de brindar un espacio digital confiable
 
 ---
 
-## 🚀 Propuesta
+## Propuesta
 
 La aplicación cumple la función de una plataforma de comercio electrónico diseñada específicamente para la comunidad universitaria. Su operación se basa en perfiles clasificados como:
 
@@ -30,7 +30,7 @@ Con esta plataforma se busca resolver problemáticas presentes en el entorno uni
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 El propósito principal es facilitar la selección, venta y compra de productos dentro de la Universidad Politécnica de Santa Rosa mediante una organización eficiente por categorías como:
 
@@ -42,11 +42,11 @@ El propósito principal es facilitar la selección, venta y compra de productos 
 - Ropa  
 - Entre otros...
 
-### 🏁 Objetivo General
+### Objetivo General
 
 Desarrollar una plataforma que facilite la compra y venta de productos y servicios dentro del entorno universitario de la UPSRJ, garantizando un proceso seguro, confiable y anónimo para los usuarios.
 
-### 🎯 Objetivos Específicos
+### Objetivos Específicos
 
 - Mejorar la experiencia de compra.
 - Facilitar la entrega de productos.
@@ -55,11 +55,11 @@ Desarrollar una plataforma que facilite la compra y venta de productos y servici
 
 ---
 
-## ⚠️ Margen de error y riesgos
+## Margen de error y riesgos
 
 A pesar de la planeación del proyecto, existen factores tecnológicos, operativos y de adopción que pueden generar un margen de error.
 
-### 🔧 Riesgos tecnológicos
+### Riesgos tecnológicos
 
 | Posible error | Consecuencia | Probabilidad |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ A pesar de la planeación del proyecto, existen factores tecnológicos, operativ
 | Dificultad en el proceso de compra/venta | Disminución de transacciones | Media |
 | Falta de accesibilidad para usuarios nuevos | Aumento en solicitudes de soporte | Baja – Media |
 
-### 🏢 Riesgos organizacionales / de implementación
+### Riesgos organizacionales / de implementación
 
 | Posible error | Consecuencia | Probabilidad |
 | --- | --- | --- |
@@ -82,14 +82,14 @@ A pesar de la planeación del proyecto, existen factores tecnológicos, operativ
 | Falta de compromiso de las cooperativas | Catálogo limitado | Media |
 | Mala coordinación entre áreas de trabajo | Retrasos en entregas | Media |
 
-### 🔁 Riesgos operativos posteriores al lanzamiento
+### Riesgos operativos posteriores al lanzamiento
 
 | Posible error | Consecuencia | Probabilidad |
 | --- | --- | --- |
 | Saturación del sistema en horas pico | Intercambios lentos o interrupciones | Baja - Media |
 | Problemas en logística de entrega | Quejas de usuarios | Media |
 
-### 🧮 Evaluación global del margen de error
+### Evaluación global del margen de error
 
 | Aspectos evaluados | Nivel de riesgo |
 | --- | --- |
@@ -100,7 +100,7 @@ A pesar de la planeación del proyecto, existen factores tecnológicos, operativ
 
 ---
 
-## 🛠️ Metodología
+## Metodología
 
 La metodología aplicada se sustenta en dos enfoques complementarios:
 
@@ -109,7 +109,7 @@ La metodología aplicada se sustenta en dos enfoques complementarios:
 
 Ambos enfoques permiten una ejecución ordenada con responsabilidades claras para cada integrante.
 
-### 🔹 División de responsabilidad por áreas
+### División de responsabilidad por áreas
 
 | Área | Función principal |
 | --- | --- |
@@ -120,7 +120,7 @@ Ambos enfoques permiten una ejecución ordenada con responsabilidades claras par
 
 ---
 
-### 📌 Scrum
+### Scrum
 
 **Rol principal:** Gestión del proyecto y coordinación del equipo.
 
@@ -140,7 +140,7 @@ Ambos enfoques permiten una ejecución ordenada con responsabilidades claras par
 
 ---
 
-### 🎨 Desarrollo de Entornos Digitales (UX/UI)
+### Desarrollo de Entornos Digitales (UX/UI)
 
 **Rol principal:** Diseñar la interacción y apariencia visual de la plataforma.
 
@@ -159,7 +159,7 @@ Ambos enfoques permiten una ejecución ordenada con responsabilidades claras par
 
 ---
 
-### 💻 Programadores
+### Programadores
 
 **Rol principal:** Desarrollo funcional de la aplicación.
 
@@ -183,7 +183,7 @@ Ambos enfoques permiten una ejecución ordenada con responsabilidades claras par
 
 ---
 
-### 🧱 Metodología de desarrollo (Modelo en cascada)
+### Metodología de desarrollo (Modelo en cascada)
 
 | Fase | Descripción |
 | --- | --- |
@@ -198,7 +198,7 @@ Actualmente el proyecto se encuentra en la **Fase 3 — Diseño**, con un protot
 
 ---
 
-## 🧠 Especialización del equipo de desarrollo
+## Especialización del equipo de desarrollo
 
 El área de programación está conformada por integrantes de distintas especialidades dentro de la carrera:
 
@@ -214,5 +214,5 @@ Estas disciplinas fortalecen el proyecto mediante:
 
 ---
 
-🔥 **Free-Comerce es una solución tecnológica creada por estudiantes, para estudiantes, con el propósito de fortalecer la comunidad universitaria y mejorar la experiencia comercial dentro del campus.**
+**Free-Comerce es una solución tecnológica creada por estudiantes, para estudiantes, con el propósito de fortalecer la comunidad universitaria y mejorar la experiencia comercial dentro del campus.**
 
